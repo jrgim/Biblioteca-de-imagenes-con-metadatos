@@ -60,3 +60,6 @@ Filtra imágenes según los criterios disponibles y visualiza sólo las imágene
 
 - La ruta por defecto para las imágenes es `src/files`, pero se puede cambiar en cualquier momento.
 - Los metadatos se generan aleatoriamente y pueden visualizarse al pulsar sobre cada imagen.
+
+### 📋 Documentación
+[📖 Descargar Manual de Uso](./Manual de uso.pdf)

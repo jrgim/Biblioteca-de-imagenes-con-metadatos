@@ -62,4 +62,4 @@ Filtra imágenes según los criterios disponibles y visualiza sólo las imágene
 - Los metadatos se generan aleatoriamente y pueden visualizarse al pulsar sobre cada imagen.
 
 ### 📋 Documentación
-[📖 Descargar Manual de Uso](./Manual de uso.pdf)
+[📖 Descargar Manual de Uso](Manual_de_uso.pdf)
